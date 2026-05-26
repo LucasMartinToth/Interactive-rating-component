@@ -24,12 +24,12 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
+### Screenshots
 
-![](./rating.png)
-![](./active-state.png)
-![](./thank-you.png)
-![](./error.png)
+![](./screenshots/rating.png)
+![](./screenshots/active-state.png)
+![](./screenshots/thank-you.png)
+![](./screenshots/error.png)
 
 ### Links
 
