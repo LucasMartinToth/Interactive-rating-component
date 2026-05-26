@@ -26,10 +26,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/rating.png)
-![](./screenshots/active-state.png)
-![](./screenshots/thank-you.png)
-![](./screenshots/error.png)
+![](./screenshots/rating.png) | ![](./screenshots/active-state.png)
+| :---: | :---: |
+![](./screenshots/thank-you.png) | ![](./screenshots/error.png)
 
 ### Links
 
